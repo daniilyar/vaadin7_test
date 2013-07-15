@@ -1,6 +1,11 @@
 *.class
+j.jar
 
-# Package Files #
-*.jar
-*.war
-*.ear
+#Folders
+target
+VAADIN
+
+# Remnants of Maven-release plugin
+release.properties
+pom.xml.releaseBackup
+

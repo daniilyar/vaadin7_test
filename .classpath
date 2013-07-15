@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar" sourcepath="M2_REPO/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/com/vaadin/vaadin-server/7.0.0.beta3/vaadin-server-7.0.0.beta3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/vaadin/vaadin-shared/7.0.0.beta3/vaadin-shared-7.0.0.beta3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/json/json/20080701/json-20080701.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/vaadin/vaadin-theme-compiler/7.0.0.beta3/vaadin-theme-compiler-7.0.0.beta3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-jexl/2.1.1/commons-jexl-2.1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/w3c/css/sac/1.3/sac-1.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-cli/commons-cli/1.2/commons-cli-1.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jsoup/jsoup/1.6.3/jsoup-1.6.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/vaadin/vaadin-client-compiled/7.0.0.beta3/vaadin-client-compiled-7.0.0.beta3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/vaadin/vaadin-client/7.0.0.beta3/vaadin-client-7.0.0.beta3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/vaadin/vaadin-themes/7.0.0.beta3/vaadin-themes-7.0.0.beta3.jar"/>
+</classpath>
